@@ -1,0 +1,29 @@
+{
+    "employee": [
+        {
+            "id": 1,
+            "name": "Aakash",
+            "description": "He is a good man!"
+        },
+        {
+            "id": 2,
+            "name": "Manjeet",
+            "description": "Jupiter is the planet where he's from! He's an ALIEN!!"
+        },
+        {
+            "id": 3,
+            "name": "Baggu",
+            "description": "Singer hai Bhai mera! A gym freak!!"
+        },
+        {
+            "id": 4,
+            "name": "Upa",
+            "description": "Aashiq hai apne group ka! He's still searching for the ONE!!"
+        },
+        {
+            "id": 5,
+            "name": "Panisha",
+            "description": "Upaa bhai isko boliyo mein baat nahi kar raha isse!!"
+        }
+    ]
+}
